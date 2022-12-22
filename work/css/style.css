@@ -1,0 +1,28 @@
+:root{
+--blue: rgb(255, 255, 255);
+--light: rgb(48, 171, 208);
+--box: rgba(176, 192, 7, 0.626) ;
+}
+
+
+body{
+display: flex;
+flex-direction:column;
+line-height: normal;
+}
+
+section{
+background-color: var(--blue);    
+color: var(--light);
+}
+
+
+header{
+display: flex;
+background-color: var(--box);
+}
+
+footer{
+display: flex;
+background-color: var(--box);
+}
