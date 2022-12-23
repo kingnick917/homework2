@@ -1,4 +1,3 @@
-# homework2
 # 02 Advanced CSS: Portfolio
 
 ## Your Task
