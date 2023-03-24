@@ -1,21 +1,18 @@
-.tabs-1 {
-    font-weight: 700;
-    font-size: 26px;
-    color: #000000;
-  }
-  
-  .tabs-2 {
-    font-weight: 700;
-    font-size: 26px;
-    color: #000000;
-  }
-  .tabs-3 {
-    font-weight: 700;
-    font-size: 26px;
-    color: #000000;
-  }
-
-.card-header{
-  border-radius: 5px;
+.ui-widget-content{
+  width: 400px;
+  flex: 1 0 200px;
+  padding: 10px;
+  text-align: center;
+  border-style: solid;
   border-width: 1px;
+}
+.caud{
+  background-color: rgba(0, 0, 0, 0.068);
+  width: 200px;
+}
+
+.resizable{
+  background-color: rgba(0, 0, 0, 0.068);
+  width: 500px;
+  padding: 10px;
 }
